@@ -20,7 +20,7 @@ A high-performance repository context aggregator for Large Language Models (LLMs
 You can install `reposift` via pip:
 
 ```bash
-pip install reposift
+pip install git+https://github.com/AmhetCnaa/RepoSift.git
 ```
 
 ## Usage 🚀
